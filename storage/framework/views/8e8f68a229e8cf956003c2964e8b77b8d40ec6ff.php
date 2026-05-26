@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\mzulh\group-assignment4\resources\views/layout.blade.php ENDPATH**/ ?>

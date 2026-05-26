@@ -1,0 +1,1 @@
+<h1>Menu</h1><?php /**PATH C:\Users\mzulh\group-assignment4\resources\views/home.blade.php ENDPATH**/ ?>
